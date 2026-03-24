@@ -1,0 +1,8 @@
+.p-muted {
+  color: var(--muted);
+}
+
+.contact-form {
+  max-width: 500px;
+  margin-top: 20px;
+}
